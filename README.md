@@ -15,7 +15,7 @@ This system uses artificial intelligence to help students reduce exam anxiety by
 - Confidence scoring algorithm with weighted factors
 - Tracks consistency, improvement streaks, and mistake reduction
 - Detects anxiety indicators and stress patterns
-- Provides exam readiness score (0-100 scale)
+- Provides exam readiness score (0-100 scale) 
 
 ### 3. Encouragement & Feedback Engine
 - Empathetic, data-driven motivational messages
