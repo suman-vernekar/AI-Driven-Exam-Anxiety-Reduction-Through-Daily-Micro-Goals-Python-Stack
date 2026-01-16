@@ -10,7 +10,7 @@ cursor = conn.cursor()
 def create_sample_students():
     """Create sample students"""
     students = [
-        (1, "Rahul Sharma", "rahul@example.com", "12", "board"),
+        (1, "Rahul Sharma", "rahul@example.com", "12", "board"), 
         (2, "Priya Patel", "priya@example.com", "12", "competitive"), 
         (3, "Amit Kumar", "amit@example.com", "11", "board"),
         (4, "Sneha Reddy", "sneha@example.com", "12", "competitive"),
