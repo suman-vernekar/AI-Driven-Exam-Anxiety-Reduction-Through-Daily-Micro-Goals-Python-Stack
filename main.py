@@ -13,7 +13,7 @@ from schemas.progress import ProgressResponse
 from api import student_routes, micro_goal_routes, anxiety_signal_routes, encouragement_routes, progress_routes
 
 # Create tables
-Base.metadata.create_all(bind=engine)
+Base.metadata.create_all(bind=engine) 
 
 # Initialize FastAPI app
 app = FastAPI(
