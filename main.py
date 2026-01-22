@@ -20,7 +20,7 @@ app = FastAPI(
     title="AI-Driven Exam Anxiety Reduction System",
     description="A system to reduce exam anxiety through daily micro-goals and progress tracking",
     version="1.0.0"
-)
+) 
 
 # Add CORS middleware
 app.add_middleware(
