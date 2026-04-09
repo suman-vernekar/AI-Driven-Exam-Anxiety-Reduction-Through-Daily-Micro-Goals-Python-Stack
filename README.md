@@ -1,4 +1,4 @@
-# AI-Driven Exam Anxiety Reduction Through Daily Micro-Goa
+# AI-Driven Exam Anxiety Reduction Through Daily Micro-Goals
 
 ## Project Overview
 This system uses artificial intelligence to help students reduce exam anxiety by converting their syllabus and performance data into small, achievable daily micro-goals. The system tracks progress, generates personalized encouragement, and provides an exam readiness score to help students stay motivated and confident.
